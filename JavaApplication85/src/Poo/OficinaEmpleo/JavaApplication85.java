@@ -9,7 +9,7 @@ package Poo.OficinaEmpleo;
  *
  * @author Capacitacion3
  */
-public class OficinaEmpleo {
+public class JavaApplication85 {
 
     /**
      * @param args the command line arguments
